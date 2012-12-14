@@ -1,8 +1,3 @@
-gfa-fractals-atari
-==================
-
-Some Atari ST fractal applications written in GFA Basic
-
 My goodness, you rummage through your disk collection and what do you
 find? Programs that you wrote when you first discovered fractals and
 GFA basic.
